@@ -1,5 +1,5 @@
 <?php
 
-echo "hello world this is from working copy";
+echo "hello world this is not from WC";
 
 ?>
