@@ -1,5 +1,5 @@
 <?php
 
-echo "hello from ubuntu world this is not from WC";
+echo "hello from the SERVER world this is not from WC";
 
 ?>
